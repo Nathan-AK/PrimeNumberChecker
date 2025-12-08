@@ -1,9 +1,9 @@
 # Prime Number Checker
 # Description
---> Untuk mengecek prime number.
+-->Website untuk mengecek prime number.
 
 # Design
---> Aku buat design dengan colour pallete dari CoLearn
+--> Warna design sesuai dengan colour pallete dari CoLearn
 --> Primary blue color (#2563EB)
 
 # Algo Explanation
