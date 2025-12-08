@@ -1,6 +1,6 @@
 # Prime Number Checker
 # Description
--->Website untuk mengecek prime number.
+--> Website untuk mengecek prime number.
 
 # Design
 --> Warna design sesuai dengan colour pallete dari CoLearn
